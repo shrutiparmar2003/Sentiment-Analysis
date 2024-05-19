@@ -9,5 +9,6 @@ What's next for MoodMapper
 "Looking ahead, I have exciting plans to further enhance MoodMapper. My immediate focus is on refining the emotion detection algorithm to improve accuracy and accommodate a wider range of languages and dialects. Additionally, I aim to expand MoodMapper's capabilities by incorporating machine learning models to provide more nuanced emotional analysis and predictive insights. Also to integrate real-time data streaming and sentiment monitoring features to enable users to stay updated on evolving emotional trends. Furthermore, I am committed to enhancing the user experience by adding customization options and interactive features to the visualization interface. Ultimately, my goal is to continue innovating and evolving MoodMapper to empower users with deeper insights into human emotions in textual data, enabling more informed decision-making and impactful interactions.
 Here are the outputs : 
 "<img width="461" alt="sentiment 2" src="https://github.com/shrutiparmar2003/Sentiment-Analysis/assets/145827392/4483406a-f976-4a35-b160-348ff8c9e58e">
+
 <img width="488" alt="sentiment 1" src="https://github.com/shrutiparmar2003/Sentiment-Analysis/assets/145827392/fa635b5a-d7a0-4d9a-bb9e-ead68956430e">
 
